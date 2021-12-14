@@ -1,2 +1,4 @@
 # raspberry-info-system
-informations sur le status des composants de la Raspberry Pi
+Informations sur le status des composants de la Raspberry Pi
+
+Developer sous Python3
