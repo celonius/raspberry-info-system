@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Application
-Name=iRPi_info_system.1.0.desktop
+Name=RPi_info_system.1.0.desktop
 
 Exec=python3 /home/$USER/raspberry-info-system/RPi_info_system.1.0.py
 
