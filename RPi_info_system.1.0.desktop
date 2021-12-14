@@ -2,7 +2,7 @@
 Type=Application
 Name=iRPi_info_system.1.0.desktop
 
-Exec=python3 /home/$USER/RPi_info_system.1.0.py
+Exec=python3 /home/$USER/raspberry-info-system/RPi_info_system.1.0.py
 
 Terminal=false
 Categories=Application
