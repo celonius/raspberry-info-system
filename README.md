@@ -11,7 +11,7 @@ Affiche:
 Developer sous Python3 avec les modules Psutil, Gpiozero.
 
 Installation:
-git clone https://github.com/celonius/raspberry-info-system.git
+<git clone https://github.com/celonius/raspberry-info-system.git>
 cd RPI_info_system
 bash install.sh
 
