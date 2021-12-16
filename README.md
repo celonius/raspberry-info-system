@@ -28,6 +28,7 @@ Si en cliquant sur executer rien ne se passe, faites un clic droit sur le raccou
 La fenetre du programme se place automatiquement en dessus a droite de votre ecran. 
 Pour le moment les resolution supportees sont:
 - 1920x1080
+- 1440x900
 - 1240x1024
 - 800x600
 - 640x480
