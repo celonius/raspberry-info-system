@@ -90,7 +90,7 @@ label_freq = Label(fram_freq, text=str(var.cpu_freq)+' MHz')
 fram_mem = LabelFrame(fen, text='Memoires Disponible')
 label_mem = Label(fram_mem, text=str(var.mem)+' Gb')
 
-fram_disk = LabelFrame(fen, text='HDD Disponible')
+fram_disk = LabelFrame(fen, text='SD Disponible')
 label_disk = Label(fram_disk, text=str(var.disq)+' Gb')
 
 fram_temp.pack(fill="both")
