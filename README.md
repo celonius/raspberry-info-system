@@ -19,7 +19,7 @@ Copiez-coller les commandes suivantes dans votre shell favorit:
 
 > bash install.sh  
 
-Le script install.sh met a jour votre RPi et verifie que que vous possedez tout ce au'il faut pour l'execution du programme.
+Le script install.sh met a jour votre RPi et verifie que vous possedez tout ce qu'il faut pour l'execution du programme.
 A la fin de l'installation, un raccourci pour lancer l'application apparaitra sur votre bureau.
 
 Si en cliquant sur executer rien ne se passe, faites un clic droit sur le raccourci > Text editor > remplacer le mot **pi** de la ligne Exec=python3  /home/**pi**/raspberry-info-system/RPi_info_system.1.0.py par votre nom d'utilisateur
